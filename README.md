@@ -1,4 +1,6 @@
 # GitTest
 just a test
 
-Modify in master branch
+
+Modify in master & develop branch
+
